@@ -22,8 +22,7 @@ The goal of the project is to automatically identify and solve hidden picture pu
 │       └── gh-ground-truth.csv  
 ├── result/
 │   ├── <scene_image>/             # One folder per scene image containing solving results
-│   ├── ge_batch_summary.csv       # Batch summary for 'ge' category
-│   └── gh_batch_summary.csv       # Batch summary for 'gh' category
+│   └── batch_summary.csv
 ├── test/
 │   └── *.(Jpg|jpg)                # Two test scene images
 ├── test_result/
