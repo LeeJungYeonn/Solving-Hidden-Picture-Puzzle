@@ -1,0 +1,3 @@
+scene_id,n_templates,accuracy,matched,unmatched,total_accuracy,metrics_csv
+ce-14,6,100.0,"leaf, paper airplane, bug, fried chicken, sock, lamp",,100.0,/content/drive/MyDrive/Colab Notebooks/Solving Hidden Picture Puzzle/result/ce-14/ce-14_detection_metrics.csv
+ge-07,5,100.0,"icecream, watch, bird, brush, eggplant",,100.0,/content/drive/MyDrive/Colab Notebooks/Solving Hidden Picture Puzzle/result/ge-07/ge-07_detection_metrics.csv

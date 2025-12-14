@@ -1,0 +1,7 @@
+scene_id,template_name,ground_truth_px,distance,iou
+ce-14,leaf,"402, 317",4.12,0.6368
+ce-14,paper airplane,"454, 550",6.73,0.3095
+ce-14,bug,"650, 679",11.01,0.4928
+ce-14,fried chicken,"532, 242",3.61,0.4881
+ce-14,sock,"542, 427",8.25,0.6173
+ce-14,lamp,"42, 227",8.08,0.4460

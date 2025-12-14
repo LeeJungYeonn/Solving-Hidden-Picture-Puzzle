@@ -1,0 +1,6 @@
+scene_id,template_name,ground_truth_px,distance,iou
+ge-07,icecream,"22, 301",2.83,0.5788
+ge-07,watch,"225, 679",0.50,0.3678
+ge-07,bird,"113, 543",2.50,0.8497
+ge-07,brush,"152, 702",2.50,0.5326
+ge-07,eggplant,"523, 807",2.50,0.6156
