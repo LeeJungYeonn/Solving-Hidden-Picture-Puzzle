@@ -43,7 +43,7 @@ Create a new notebook or open an existing one.
 
 ```bash
 !git clone https://github.com/Hidden-Picture-Puzzle/Solving-Hidden-Picture-Puzzle.git
-%cd REPOSITORY_NAME
+%cd Solving-Hidden-Picture-Puzzle
 !ls
 ```
 
