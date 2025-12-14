@@ -44,9 +44,10 @@ Create a new notebook or open an existing one.
 ```bash
 !git clone https://github.com/USERNAME/Solving-Hidden-Picture-Puzzle.git
 %cd REPOSITORY_NAME
+!ls
 ```
 
-All required folders, including the dataset, are cloned into the Colab environment.
+Please check all required folders, including the dataset, are cloned into the Colab environment.
 
 ---
 
